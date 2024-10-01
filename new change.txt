@@ -1,1 +1,1 @@
-qwe
+Console.WriteLine("Hello world!");
